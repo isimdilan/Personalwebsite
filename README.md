@@ -12,7 +12,7 @@ Buttons can actively switch between pages. Changes color when hovering over the 
 
 On this page, there are pages made using simple html and css programming languages.
 
-![6](https://user-images.githubusercontent.com/72500382/99130152-99701300-2620-11eb-83f6-f74d0bb02afd.png)
+
 
 Examples of templates made using Adobe Dreamweaver
 
