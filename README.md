@@ -9,7 +9,6 @@ The Home Page (Menu fixed to the screen and also Footer too)
 ![2](https://user-images.githubusercontent.com/72500382/99130225-cd4b3880-2620-11eb-98d5-2fef5d9e8d13.png)
 Buttons can actively switch between pages. Changes color when hovering over the buttons
 
-![3](https://user-images.githubusercontent.com/72500382/99130116-83625280-2620-11eb-811a-dc695c1f029f.png)
 
 On this page, there are pages made using simple html and css programming languages.
 
