@@ -11,12 +11,6 @@ Buttons can actively switch between pages. Changes color when hovering over the 
 
 ![3](https://user-images.githubusercontent.com/72500382/99130116-83625280-2620-11eb-811a-dc695c1f029f.png)
 
-![4](https://user-images.githubusercontent.com/72500382/99130134-8cebba80-2620-11eb-8227-efcfb382e443.png)
-
-There are simple html sites on this page
-
-![5](https://user-images.githubusercontent.com/72500382/99130141-92e19b80-2620-11eb-96cf-0d2d599a3017.png)
-
 On this page, there are pages made using simple html and css programming languages.
 
 ![6](https://user-images.githubusercontent.com/72500382/99130152-99701300-2620-11eb-83f6-f74d0bb02afd.png)
